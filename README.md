@@ -1,4 +1,3 @@
 TestRepo
 ========
-
-Test repo
+Just a test.
